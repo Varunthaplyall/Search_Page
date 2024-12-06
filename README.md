@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-
 # Search_Page
 # React
-=======
+
 # **Search_Page**
->>>>>>> 00b20cc (Updated Readme file)
 
 This is a React-based project that provides an interactive and responsive search page with filtering and sorting capabilities. The page is styled with modern design principles, making it both user-friendly and visually appealing.
 
